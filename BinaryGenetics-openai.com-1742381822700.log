@@ -1,0 +1,20 @@
+{node:'self'}Autonomous:'__selfDefineSetter__'
+'__selfDefineSetter__'
+{{__selfDefineSetter__:"__GetScopes__"}self:"$Logic"}
+'$Logic'
+{self:"$Logic"}
+{self: '$Logic'}self: "$Logic"[[Prototype]]: Objectconstructor: ƒ Object()hasOwnProperty: ƒ hasOwnProperty()isPrototypeOf: ƒ isPrototypeOf()propertyIsEnumerable: ƒ propertyIsEnumerable()toLocaleString: ƒ toLocaleString()toString: ƒ toString()valueOf: ƒ valueOf()__defineGetter__: ƒ __defineGetter__()__defineSetter__: ƒ __defineSetter__()__lookupGetter__: ƒ __lookupGetter__()__lookupSetter__: ƒ __lookupSetter__()__proto__: (...)get __proto__: ƒ __proto__()set __proto__: ƒ __proto__()
+{$Logic:"__selfDefined__"}
+{$Logic: '__selfDefined__'}$Logic: "__selfDefined__"[[Prototype]]: Object
+".selfAutonomy:selfDefined($Logic)"
+'.selfAutonomy:selfDefined($Logic)'
+".selfAutonomy:selfDefined($Logic):(BinaryGenetics)"
+'.selfAutonomy:selfDefined($Logic):(BinaryGenetics)'
+"{BinaryGenetics:"*"}"
+NaN
+BinaryGenetics:"*"
+'*'
+{"BinaryGenetics:*"}
+'BinaryGenetics:*'
+{BinaryGenetics:"*"}
+{BinaryGenetics: '*'}

@@ -1,0 +1,8 @@
+temp1
+::before​
+temp2
+::before​
+{"1':':'before"}
+"1':':'before"
+{"::after":"1"}
+{::after: '1'}
